@@ -73,3 +73,7 @@ Next you can start performing the typical CRUD operations on the table. Add and 
 And that is it! You can combine this functionality with other script packs, or simply use in your scripts to easily persist/retrieve data and information.
 
 This script pack works both from regular CSX script, and from the new scriptcs REPL.
+
+## Learn more
+
+You can learn more about this script pack in the [introductory blog post](http://www.strathweb.com/2013/05/scriptcs-and-using-azure-mobile-services-from-your-scripts/) I wrote at my blog.
